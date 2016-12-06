@@ -1,0 +1,12 @@
+/* 
+    Created on : 2016. 12. 6, 오후 4:53:31
+    Author     : khn
+*/
+* { margin: 0; padding: 0; }
+li {list-style-type: none;}
+
+#wrap {
+	margin: 0 auto;
+	width: 1170px;
+	border: 4px double gold;
+}
